@@ -8,12 +8,12 @@ import (
 	"strings"
 
 	prompt "github.com/c-bata/go-prompt"
-	c "github.com/tiagorlampert/CHAOS/src/color"
-	"github.com/tiagorlampert/CHAOS/src/completer"
-	"github.com/tiagorlampert/CHAOS/src/network"
-	"github.com/tiagorlampert/CHAOS/src/parameters"
-	"github.com/tiagorlampert/CHAOS/src/serve"
-	"github.com/tiagorlampert/CHAOS/src/util"
+	c "github.com/VivaTS-Drop/CHAOS/src/color"
+	"github.com/VivaTS-Drop/CHAOS/src/completer"
+	"github.com/VivaTS-Drop/CHAOS/src/network"
+	"github.com/VivaTS-Drop/CHAOS/src/parameters"
+	"github.com/VivaTS-Drop/CHAOS/src/serve"
+	"github.com/VivaTS-Drop/CHAOS/src/util"
 )
 
 func StartMenu() {
