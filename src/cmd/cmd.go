@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/tiagorlampert/CHAOS/src/ui"
-	"github.com/tiagorlampert/CHAOS/src/util"
+	"github.com/VivaTS-Drop/CHAOS/src/ui"
+	"github.com/VivaTS-Drop/CHAOS/src/util"
 )
 
 func Start() {
