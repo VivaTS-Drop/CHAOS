@@ -33,7 +33,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 package main
 
 import (
-	"github.com/tiagorlampert/CHAOS/src/cmd"
+	"github.com/VivaTS-Drop/CHAOS/src/cmd"
 )
 
 func main() {
