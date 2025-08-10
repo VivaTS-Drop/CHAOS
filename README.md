@@ -107,7 +107,7 @@ Command                 | On TARGET does...
 
 ## Gif
 <p align="center">
-<img src="https://github.com/tiagorlampert/CHAOS/blob/master/content/screenshot.gif">
+<img src="https://github.com/VivaTS-Drop/CHAOS/blob/main/content/screenshot.gif?raw=true">
 </p>
 
 ## FAQ
@@ -158,6 +158,6 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-[w]:https://raw.githubusercontent.com/tiagorlampert/CHAOS/master/content/windows.png "Windows status"
-[l]:https://raw.githubusercontent.com/tiagorlampert/CHAOS/master/content/linux.png "Linux status"
-[m]:https://raw.githubusercontent.com/tiagorlampert/CHAOS/master/content/mac.png "Mac OS status"
+[w]:https://github.com/VivaTS-Drop/CHAOS/blob/main/content/windows.png?raw=true "Windows status"
+[l]:https://github.com/VivaTS-Drop/CHAOS/blob/main/content/linux.png?raw=true "Linux status"
+[m]:https://github.com/VivaTS-Drop/CHAOS/blob/main/content/mac.png?raw=true "Mac OS status"
