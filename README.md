@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiagorlampert/CHAOS/master/content/logo.png">
+  <img src="https://github.com/VivaTS-Drop/CHAOS/blob/main/content/logo.png?raw=true">
 </p>
 
 <h1 align="center">CHAOS Payload Generator</h1>
