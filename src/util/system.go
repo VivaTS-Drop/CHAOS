@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/signal"
 
-	c "github.com/tiagorlampert/CHAOS/src/color"
+	c "github.com/VivaTS-Drop/CHAOS/src/color"
 )
 
 func GeneratePath(str_size int) string {
