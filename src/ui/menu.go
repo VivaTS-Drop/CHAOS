@@ -3,8 +3,8 @@ package ui
 import (
 	"fmt"
 
-	c "github.com/tiagorlampert/CHAOS/src/color"
-	"github.com/tiagorlampert/CHAOS/src/version"
+	c "github.com/VivaTS-Drop/CHAOS/src/color"
+	"github.com/VivaTS-Drop/CHAOS/src/version"
 )
 
 func ShowMenu() {
