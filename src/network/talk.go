@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net"
 
-	c "github.com/tiagorlampert/CHAOS/src/color"
-	"github.com/tiagorlampert/CHAOS/src/util"
+	c "github.com/VivaTS-Drop/CHAOS/src/color"
+	"github.com/VivaTS-Drop/CHAOS/src/util"
 )
 
 func SendMessage(conn net.Conn, message string) {
