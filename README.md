@@ -53,10 +53,10 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 $ sudo apt install golang git go-dep -y
 
 # Get this repository
-$ go get github.com/tiagorlampert/CHAOS
+$ go get github.com/VivaTS-Drop/CHAOS
 
 # Go into the repository
-$ cd ~/go/src/github.com/tiagorlampert/CHAOS
+$ cd ~/go/src/github.com/VivaTS-Drop/CHAOS
 
 # Get project dependencies
 $ dep ensure
