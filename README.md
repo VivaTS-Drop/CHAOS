@@ -45,24 +45,26 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 | `Run Hidden`             |    X    |        |       |
 
 ## Tested On
-[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION**
+[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - NO!! IT'S OLD, i use arch btw**
 
 ## How to Install
 ```bash
 # Install dependencies
-$ sudo apt install golang git go-dep -y
+$ sudo apt install golang git
+
+$ sudo go mod init CHAOS
 
 # Get this repository
-$ go get github.com/VivaTS-Drop/CHAOS
+$ sudo go get github.com/VivaTS-Drop/CHAOS
 
 # Go into the repository
-$ cd ~/go/src/github.com/VivaTS-Drop/CHAOS
+$ cd ~/go/src/github.com/VivaTS-Drop/CHAOS(example, find yourself)
 
 # Get project dependencies
-$ dep ensure
+$ sudo go mod tidy
 
 # Run
-$ go run main.go
+$ sudo go run main.go
 ```
 
 ## How to Use
